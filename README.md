@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Novice website developer.
+Politics & elections.
 <!--
 **Ponderix/Ponderix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
