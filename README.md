@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Amateur web developer.
-
 Cartography, politics & elections.
 <!--
 **Ponderix/Ponderix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
